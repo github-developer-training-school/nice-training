@@ -1,9 +1,6 @@
----
-layout: slide
-title: "Welcome to our slide deck!"
----
+--- layout: slide title: "Welcome to our slide deck!" ---
 
-Caption here
+AkshayJagtapNice
 
 ![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
 {: .center}
